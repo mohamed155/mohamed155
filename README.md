@@ -57,6 +57,9 @@
 <p><a href="https://app.daily.dev/mohamed154"><img src="https://api.daily.dev/devcards/50f8b33caa2e44bf8140b74e5621829f.png?r=ewl" width="300" alt="Mohamed Ramadan's Dev Card"/></a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed155&" alt="mohamed155" /></p>
+</td>
+</tr>
 </table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed155&" alt="mohamed155" /></p>
