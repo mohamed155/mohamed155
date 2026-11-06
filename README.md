@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed_aramdan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed_aramdan?logo=twitter&style=for-the-badge" alt="mohamed_aramdan" /></a> </p>
 
-- 🔭 I’m currently working in **crealogix**
+- 🔭 I’m currently working in **eSpace**
 
 - 🌱 I’m currently learning **AI engineering**
 
