@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Mohamed%20Ramadan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%E2%80%A2%20Alexandria%2C%20Egypt&descAlignY=58&descSize=18&animation=fadeIn" alt="Mohamed Ramadan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Mohamed%20Ramadan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Alexandria%2C%20Egypt&descAlignY=58&descSize=18&animation=fadeIn" alt="Mohamed Ramadan" />
 </p>
 
 <p align="center">
@@ -26,13 +26,13 @@
 
 ## 👋 About me
 
-I'm a **Senior Frontend Engineer** with **7+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
+I'm a **Senior Software Engineer** with **7+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
 
 Right now I'm building enterprise fintech products as a **Senior React Developer at [Crealogix](https://crealogix.com)** (via **eSpace**), and I've previously delivered work for **Optus (Australia, remote)**, **Intouch.com**, and **UrWave Solutions**.
 
 ```ts
 const mohamed = {
-  role: "Senior Frontend Engineer",
+  role: "Senior Software Engineer",
   location: "Alexandria, Egypt 🇪🇬",
   education: "B.Sc. Computer Science — Alexandria University",
   focus: ["React", "Angular", "TypeScript", "Next.js", "Frontend Architecture"],
@@ -98,12 +98,6 @@ const mohamed = {
   <a href="https://codepen.io/mohamed155"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
   <a href="https://codesandbox.com/mohamed155"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=flat-square&logo=codesandbox&logoColor=white" alt="CodeSandbox" /></a>
 </p>
-
-<details>
-<summary align="center"><b>📇 daily.dev card</b></summary>
-<br />
-<p align="center"><img src="./devcard.svg" width="360" alt="daily.dev DevCard" /></p>
-</details>
 
 ---
 
