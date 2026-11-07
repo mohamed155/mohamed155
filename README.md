@@ -28,7 +28,7 @@
 
 I'm a **Senior Software Engineer** with **7+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
 
-Right now I'm building enterprise fintech products as a **Senior React Developer at [Crealogix](https://crealogix.com)** (via **eSpace**), and I've previously delivered work for **Optus (Australia, remote)**, **Intouch.com**, and **UrWave Solutions**.
+Right now, I'm building enterprise fintech products as a **Senior React Developer at eSpace, and I've previously delivered work for **Optus (Australia, remote)**, **Intouch.com**, and **UrWave Solutions**.
 
 ```ts
 const mohamed = {
