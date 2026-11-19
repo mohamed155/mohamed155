@@ -26,13 +26,13 @@
 
 ## 👋 About me
 
-I'm a **Senior Software Engineer** with **7+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
+I'm a **Senior AI Software Engineer** with **7+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
 
 Right now, I'm building enterprise fintech products as a **Senior React Developer at eSpace, and I've previously delivered work for **Optus (Australia, remote)**, **Intouch.com**, and **UrWave Solutions**.
 
 ```ts
 const mohamed = {
-  role: "Senior Software Engineer",
+  role: "Senior AI Software Engineer",
   location: "Alexandria, Egypt 🇪🇬",
   education: "B.Sc. Computer Science — Alexandria University",
   focus: ["React", "Angular", "TypeScript", "Next.js", "Frontend Architecture"],
