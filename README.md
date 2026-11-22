@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+fast%2C+scalable+web+apps+with+React+%26+Angular;TypeScript+all+the+way+down;Exploring+LLM+engineering+%26+AI-powered+products;7%2B+years+shipping+production+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+fast%2C+scalable+web+apps+with+React+%26+Angular;TypeScript+all+the+way+down;Exploring+LLM+engineering+%26+AI-powered+products;8%2B+years+shipping+production+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 👋 About me
 
-I'm a **Senior AI Software Engineer** with **7+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
+I'm a **Senior AI Software Engineer** with **8+ years** of experience turning complex product requirements into fast, accessible, and maintainable web applications. I care about clean architecture, strong typing, and the kind of developer experience that lets teams ship confidently.
 
 Right now, I'm building enterprise fintech products as a **Senior React Developer at eSpace, and I've previously delivered work for **Optus (Australia, remote)**, **Intouch.com**, and **UrWave Solutions**.
 
